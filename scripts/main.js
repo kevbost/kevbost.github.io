@@ -1,1 +1,1 @@
-console.log("'Allo 'Allo!"),$("div").blast({delimiter:"letter"});
+console.log("'Allo 'Allo!"),$(function(){$("div").blast({delimiter:"letter",tag:"span"}),snabbt(document.querySelectorAll(".blast"),{fromRotation:[0,0,0],rotation:function(t,n){return[0,0,t/(n-1)*(Math.PI/2)]},delay:function(t){return 20*t},easing:"spring"}).snabbt({rotation:[0,0,0],delay:function(t,n){return 10*(n-t-1)},easing:"ease"})});
