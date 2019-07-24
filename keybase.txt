@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kevbost
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kevinbost.com
+  * I am kevbost (https://keybase.io/kevbost) on keybase.
+  * I have a public key ASAwmgomJ29JItLLYPoefblRxPmVCMqMr94rcFVi3hASOwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120309a0a26276f4922d2cb60fa1e7db951c4f99508ca8cafde2b705562de10123b0a",
+      "host": "keybase.io",
+      "kid": "0120309a0a26276f4922d2cb60fa1e7db951c4f99508ca8cafde2b705562de10123b0a",
+      "uid": "dc221594eb178fdc665ab8bccb0f0719",
+      "username": "kevbost"
+    },
+    "merkle_root": {
+      "ctime": 1563973289,
+      "hash": "89550e1f9c0854816d0219668ecf76b63224560472e2653ed5ff5cd69d993028fd13983d887bb71519359901062580ae4f0d38fd14b1cb6e652b1dd936264b49",
+      "hash_meta": "decfb06a6531e1239c5deabbefe3c2807df64556bb3853b2b95600d01f7715f8",
+      "seqno": 5842109
+    },
+    "service": {
+      "entropy": "wCzOQcLBu6oRiSoUYVlFAlEZ",
+      "hostname": "kevinbost.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1563973306,
+  "expire_in": 504576000,
+  "prev": "44bbbcc0d364ec1e459fc546bbdf53bbf2573ea219b78cdd269a28930114acab",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMJoKJidvSSLSy2D6Hn25UcT5lQjKjK/eK3BVYt4QEjsKp3BheWxvYWTESpcCCcQgRLu8wNNk7B5Fn8VGu99Tu/JXPqIZt4zdJpookwEUrKvEII9oJcA+/w5w8bkMJB+7wa5BRXw5fSctxHVY1LYTqOkXAgHCo3NpZ8RAPmM6R5ZhEtEFeSXRMAA5wm6sWmKqKh62P8W6rrHB2YT+Kg2vHIRwTtqOEFppLf4lB2Ui1JQ3zGHZ6ByzOiihCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMJU+QCIb09Bi1cGbRpB9wYceWwVscpguK7clvaJuuVco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kevbost
+
+==================================================================
